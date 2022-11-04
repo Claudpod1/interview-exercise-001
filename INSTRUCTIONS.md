@@ -27,7 +27,7 @@ This is a little exercise to help you get a feel for what would be asked of you 
 1. Update your app to simulate a dice roll.
 2. Take an input from stdin
 3. When the input is recevied, simulate a random dice roll and print the results to stdout.
-4. Extra credit: compute the probability of that roll occuring and print that as well to stdout.
+4. Extra credit: compute the probability of the total score of that roll occuring and print that as well to stdout.
 5. Commit your changes to your local branch and push them to the origin repository.
 
 Don't forget to write a couple quick notes about the exercise in NOTES.md!  Was it too easy, were there parts you knew once but had forgotten, did you learn something new, etc.?  Good luck!
