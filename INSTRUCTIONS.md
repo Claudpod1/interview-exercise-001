@@ -30,4 +30,4 @@ This is a little exercise to help you get a feel for what would be asked of you 
 4. Extra credit: compute the probability of the total score of that roll occuring and print that as well to stdout.
 5. Commit your changes to your local branch and push them to the origin repository.
 
-Don't forget to write a couple quick notes about the exercise in NOTES.md!  Was it too easy, were there parts you knew once but had forgotten, did you learn something new, etc.?  Good luck!
+Don't forget to write a couple quick notes about the exercise in NOTES.md!  Were parts too hard, to easy, were there parts you knew once but had forgotten, did you learn something new, etc.?  Good luck!
