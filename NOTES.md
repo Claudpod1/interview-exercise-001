@@ -30,10 +30,16 @@ Done in the console.log for the script.js
 
 3. Commit your changes to your local branch and push them to the origin repository.
 
-Kept running into issues with pushing the new changes to the origin resository, saying it was up to date. 
+
 
 ## OK, SOMETHING MORE INTERESTING!
 1. Update your command line app to pull random data from random-data-api.com (https://random-data-api.com/documentation)
+
+Googled for some examples regarding the time restriction. 
+Link to one I have helpful 
+
+Link: 
+
 2. Pull 10 users. Print out the username and title for each to stdout.
 3. Pull 100 blood_types.  Count the number of entries in group "A+" and print to stdout.
 4. Commit your changes to your local branch and push them to the origin repository.
