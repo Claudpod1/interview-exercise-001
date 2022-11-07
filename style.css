@@ -1,0 +1,25 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+
+}
+
+.random-user {
+    background-color: aquamarine;
+    margin-top: 10%;
+    width:100%;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow:rgba(0,0,0,0);
+    
+}

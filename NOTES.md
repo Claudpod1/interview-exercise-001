@@ -36,12 +36,40 @@ Done in the console.log for the script.js
 1. Update your command line app to pull random data from random-data-api.com (https://random-data-api.com/documentation)
 
 Googled for some examples regarding the time restriction. 
-Link to one I have helpful 
+Link to one I have found helpful. 
 
-Link: 
+Link: https://www.youtube.com/watch?v=_k5kUJEf1Wk
+Link: https://www.youtube.com/watch?v=gD2gY2YjgyE
+
+
+
+* The idea I had in mind was to create a table using the tablemanager to display the 10 user names that are mentioned in this youtube video https://www.youtube.com/watch?v=_k5kUJEf1Wk. 
+
+Then using the straegy from the second youtube video: https://www.youtube.com/watch?v=gD2gY2YjgyE
 
 2. Pull 10 users. Print out the username and title for each to stdout.
+
+- Able to console.log data. 
+
 3. Pull 100 blood_types.  Count the number of entries in group "A+" and print to stdout.
 4. Commit your changes to your local branch and push them to the origin repository.
+
+
+* Cons 
+
+Not enough time. 
+Was able to console log the data from the api but not display on the screen. 
+
+
+* Pros 
+Had fun doing this assignment. 
+Sticked to the time limit. 
+Documented my steps.
+
+
+Overall: 
+
+I was able to start the project, and get to engine rolling on a game plan. Console.log as much as I could to ensure I was receiving the correct information from the API. I bit rusky on the coding but overall enjoyed the time spend on it. 
+
 
 
